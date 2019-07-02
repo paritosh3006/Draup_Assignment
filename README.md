@@ -1,6 +1,7 @@
 # Draup_Assignment
-News Classification
-The Task
+News Classification:
+
+The Task:
 
 Large volumes of news articles are received every day from various sources. To simplify downstream processing tasks, one of the first steps is to properly categories news into well-defined categories. In this problem, you have been given a set of news articles and a set of categories. Your task is to develop a model which will be able to predict the category of unseen news.
 
